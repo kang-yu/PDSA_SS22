@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 askfakhfalfalaglakalngal
 
 11345567
+=======
+we just put some words in one txt file. 
+>>>>>>> 4218aeddb66387eda722ef6960c632c72a8dc50b

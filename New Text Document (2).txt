@@ -8,4 +8,9 @@ And hopefully now i (alex) am able to push this message :D add
 let us modify the second txt file. 
 
 I add one more line here inthe second txt file. 
+<<<<<<< HEAD
+
+adding new text
+=======
 >>>>>>> c5734ed342bfdecd3c753e4bd439ebc6eb3521b3
+>>>>>>> f935b8c08c5e56b08428ffcf51ca11c8064a9e82

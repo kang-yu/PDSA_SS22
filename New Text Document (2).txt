@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 let us modify the second txt file
 
 This is a test
 
-And hopefully now i (alex) am able to push this message :D
+And hopefully now i (alex) am able to push this message :D add
+=======
+let us modify the second txt file. 
+
+I add one more line here inthe second txt file. 
+>>>>>>> c5734ed342bfdecd3c753e4bd439ebc6eb3521b3
